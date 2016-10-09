@@ -105,8 +105,7 @@
     return nil;
 }
 -(void)checkActoin:(UIButton *)btn{
-//    NSString *strName = btn
-//    NSLog(@"%li",btn.tag);
+
     NSInteger tag = btn.tag;
     if (tag == 0) {
         btn.tag = 1;
