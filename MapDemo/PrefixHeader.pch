@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  MapDemo
+//
+//  Created by admin on 2016/10/8.
+//  Copyright © 2016年 racer. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import <AMapFoundationKit/AMapFoundationKit.h>
+#import <MAMapKit/MAMapKit.h>
+#define MapKey @"653f09864201cc8df05d5e76a02d3d51"
+#endif 
